@@ -7,11 +7,17 @@
   "author": "Jake <tjd1emd@naver.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "week3-call-eth-rpc": "ts-node ./scripts/week3/call-eth-rpc.ts"
+  },
   "devDependencies": {
     "@types/node": "^22.5.4",
     "axios": "^1.7.7",
     "nodemon": "^3.1.4",
     "ts-node": "^10.9.2",
     "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
   }
 }
