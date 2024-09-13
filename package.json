@@ -1,0 +1,17 @@
+{
+  "name": "alchemy-assignment",
+  "version": "1.0.0",
+  "description": "Archiving for alchemy ethereum bootcamp session",
+  "main": "index.js",
+  "repository": "https://www.github.com/howdyfrom2019/alchemy-assignment",
+  "author": "Jake <tjd1emd@naver.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "axios": "^1.7.7",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
